@@ -7,6 +7,7 @@
 MedQuAD/
 qdrant_db/
 qdrant_storage/
+qdrant_data/
 
 # ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
